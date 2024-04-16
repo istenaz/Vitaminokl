@@ -1,4 +1,27 @@
-body {
-    color: darksalmon;
+h1{
+    
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+h2{
+    text-decoration: underline;
+    padding-left: 300px;
+    padding-top: 150px;
+    color: rgb(0, 0, 0);
+}
+
+
+p{
+
+    padding-left: 300px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+body{
+    background-image: url(Untitled-design-18.png);
+    
+
 
 }
