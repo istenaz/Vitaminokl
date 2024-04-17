@@ -6,22 +6,30 @@ h1{
 
 h2{
     text-decoration: underline;
-    padding-left: 300px;
+    
     padding-top: 150px;
     color: rgb(0, 0, 0);
+    text-align: center;
 }
 
 
 p{
-
-    padding-left: 300px;
     color: rgb(0, 0, 0);
     font-weight: bold;
+    font-size: 20px;
 }
 
 body{
     background-image: url(Untitled-design-18.png);
-    
+    background-size: cover;
 
+}
+
+.padding {
+    padding: 200px;
+}
+
+.fatyol{
+    background-color: rgba(255, 255, 255, 0.4);
 
 }
